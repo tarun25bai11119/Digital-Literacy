@@ -1,0 +1,34 @@
+﻿Task 5 – Cybercrime Awareness Case Study & Prevention Guide
+
+
+Part B – Prevention Checklist
+
+
+Stay Safe Online – Prevention Tips
+
+
+* General Safety Tips
+1. Never share OTP, passwords, or UPI PIN with anyone.
+2. Never click on unknown links sent through SMS or WhatsApp.
+3. Always verify the caller before trusting any banking related call.
+4. Use strong passwords combining letters and numbers.
+5. Enable two-step verification in important apps.
+6. Keep your mobile apps updated regularly.
+7. Do not save banking details on unknown websites.
+8. Avoid using public Wi-Fi for financial transactions.
+
+
+
+
+* UPI / Financial Safety Tips
+9. Always remember UPI PIN is only required to send money, not to receive money.
+10. Never approve unknown payment collect requests.
+11. Always check the receiver name before sending money.
+12. Immediately block your bank services if fraud is suspected.
+
+
+
+
+* Reporting Cybercrime
+13. Report cyber fraud on National Cyber Crime Portal: cybercrime.gov.in
+14. Call Cyber Crime Helpline Number: 1930 for immediate help in financial fraud cases.
